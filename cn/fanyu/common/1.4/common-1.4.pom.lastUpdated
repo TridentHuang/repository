@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Feb 17 16:56:53 CST 2020
+https\://raw.github.com/TridentHuang/repository/master/.error=Could not transfer artifact cn.fanyu\:common\:pom\:1.4 from/to repository (https\://raw.github.com/TridentHuang/repository/master)\: Connect to raw.github.com\:443 [raw.github.com/151.101.228.133] failed\: Connection refused (Connection refused)
+@default-repository-https\://raw.github.com/TridentHuang/repository/master/.lastUpdated=1581929813875
+https\://repo.maven.apache.org/maven2/.lastUpdated=1581929785646
+https\://repo.maven.apache.org/maven2/.error=
